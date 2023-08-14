@@ -7,7 +7,7 @@
         "ncols": 16,
         "scan": false,
         "camId": 0,
-        "interval": 250,
+        "interval": 3000,
         "gui": true,
         "cityio": true,
         "tags": [
